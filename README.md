@@ -1,2 +1,3 @@
-# farmer
-farmer, wolf, sheep, grain, AI
+# CS480 AI
+farmer, wolf, sheep, grain
+8puzzle
